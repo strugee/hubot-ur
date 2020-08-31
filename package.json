@@ -11,6 +11,7 @@
     "hubot-irc": "^0.4.2",
     "hubot-pugme": "^0.1.1",
     "hubot-redis-brain": "^1.0.0",
+    "hubot-robertsrules": "github:strugee/hubot-robertsrules#beta-etachi",
     "hubot-rules": "^1.0.0",
     "hubot-scripts": "^2.17.2",
     "hubot-shipit": "^0.2.1"
